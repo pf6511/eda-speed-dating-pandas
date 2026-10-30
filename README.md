@@ -1,4 +1,4 @@
-# jedha-dts-eda-tinder
+# eda-tinder
 EDA module - Tinder project
 
 # Tinder
